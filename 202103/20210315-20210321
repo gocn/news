@@ -1,0 +1,12 @@
+## GoCN每日新闻(2021-03-15)
+
+1. 让json解析更简单高效的GJSON https://gocn.vip/topics/11778
+2. 使用观察者模式来观察本地文件的修改 https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html
+3. "go build -X" 的妙用 https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw
+4. Kubernetes 稳定性保障手册（极简版) https://mp.weixin.qq.com/s/DK1BfzY-Ou-_xB6aGO6yTw
+5. tiktik: tiktok终端客户端 https://github.com/irevenko/tiktik
+
+* 编辑: Razil  
+* 订阅新闻: http://tinyletter.com/gocn  
+* 招聘专区: https://gocn.vip/jobs   
+* GoCN归档: https://gocn.vip/topics/11782
