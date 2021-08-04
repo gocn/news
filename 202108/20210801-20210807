@@ -1,0 +1,38 @@
+## GoCN 每日新闻 (2021-08-01)
+
+1. 谷歌出品：帮助发现Go项目漏洞的工具 https://mp.weixin.qq.com/s/C2jqW2emwIkATbj8uck0LA
+2. 一个95分位延迟要求5ms的场景，如何做性能优化 https://mp.weixin.qq.com/s/j3zr3alRpHdKh4tUKHqrKQ
+3. Go基于I/O多路复用的TCP协议流解析实践 https://mp.weixin.qq.com/s/FH1fiK3-3fnkUxM6MA5Y8w
+4. Go经典阻塞式TCP协议流解析的实践 https://mp.weixin.qq.com/s/NG3f-KkjtJBTVdRHQKLXOg
+5. golang反射的高级应用 https://mp.weixin.qq.com/s/bYrTn0Hu-HkL63PyCj5qBg
+
+- 编辑: cloudy 
+- 订阅新闻: http://tinyletter.com/gocn
+- 招聘专区: https://gocn.vip/jobs
+- GoCN归档: https://gocn.vip/topics/12400
+
+## GoCN 每日新闻 (2021-08-03)
+
+1. go-oidc-middleware：用于 Go 的 OpenID Connect (OIDC) http 中间件 https://www.reddit.com/r/golang/comments/oxr47j/gooidcmiddleware_openid_connect_oidc_http/
+2. Go 应用于数据科学的案例分享：付多少小费 https://segmentfault.com/a/1190000040449597
+3. 2021年Go生态圈rpc框架benchmark https://colobu.com/2021/08/01/benchmark-of-rpc-frameworks/#more
+4. 详解Go语言中的内存逃逸 https://segmentfault.com/a/1190000040450335
+5. mtail: 从应用程序日志中提取指标的工具，可将其导出到时序数据库中，用于警报和仪表盘 https://github.com/google/mtail
+
+- 编辑: 琳 
+- 订阅新闻: http://tinyletter.com/gocn
+- 招聘专区: https://gocn.vip/jobs
+- GoCN归档: https://gocn.vip/topics/12417
+
+## GoCN每日新闻(2021-08-04)
+ 
+1. GO 1.17 发布RC2 https://groups.google.com/g/golang-announce/c/yk30ovJGXWY
+2. 使用 Go DIY pprof 配置文件 https://www.polarsignals.com/blog/posts/2021/08/03/diy-pprof-profiles-using-go/
+3. Go 如何计算 len()? https://tpaschalis.github.io/golang-len/
+4. 优化故事：为大型 Golang 应用程序构建代码扫描器 https://nationalcybersecuritynews.today/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-linux-linuxsecurity/
+5. Golang 中的实用 DDD：值对象 https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70
+
+- 编辑: CDS
+- 订阅新闻: http://tinyletter.com/gocn
+- 招聘专区: https://gocn.vip/jobs
+- GoCN归档：https://gocn.vip/topics/12412
