@@ -1,0 +1,29 @@
+# GoCN每日新闻(2021-10-18)
+
+1. Tailscale 公司的 Go linker 优化 https://tailscale.com/blog/go-linker/
+2. Go 一些外部库的性能测试 https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a
+3. BFE Ingress Controller正式发布！ https://mp.weixin.qq.com/s/7eia0WM9kbEBXKMPSlOT3A
+4. Golang 语言极简 HTTP 客户端 GoRequest https://mp.weixin.qq.com/s/vvzu_KDejpQ4rJUsT2wD_A
+5. 听说，99% 的 Go 程序员都被 defer 坑过 https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ
+
+- 2021 Gopher Meetup 杭州站与你相约1024 https://gocn.vip/topics/17373
+- 2021 Gopher Meetup 北京站 https://mp.weixin.qq.com/s/273fzdCP5oqhQq1_5KJOkA
+
+* 编辑: 傅小黑
+* 订阅新闻: http://tinyletter.com/gocn
+* 招聘专区: https://gocn.vip/jobs
+* 新闻归档: https://gocn.vip/topics/17405
+
+# GoCN每日新闻(2021-10-19)
+
+1. 一套优雅的 Go 错误问题解决方案 https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ
+2. 基于tcpdump原理手写抓包程序 https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ
+3. Go开源说第十七期 分布式事务DTM https://mp.weixin.qq.com/s/5jAIHaIpO-Dk4F2kJzWQAQ
+4. 在GO中, 你不需要用于文件遍历的开源库 https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+5. WebAssembly 能够快速执行的原因 https://zhuanlan.zhihu.com/p/422541443
+
+
+* 编辑: yuliz
+* 订阅新闻: http://tinyletter.com/gocn
+* 招聘专区: https://gocn.vip/jobs
+* 新闻归档: https://gocn.vip/topics/17406
