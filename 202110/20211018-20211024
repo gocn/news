@@ -37,7 +37,7 @@
 4. 高性能Redis-Server多线程框架，基于rawepoll模型 https://github.com/IceFireDB/redhub
 5. Go在flow中的开发 https://susamn.medium.com/be-in-the-flow-with-idiomatic-go-development-58058326bffe
 
-- 编辑: 李森森
-- 订阅新闻: http://tinyletter.com/gocn
-- 招聘专区: https://gocn.vip/jobs
-- GoCN归档: https://gocn.vip/topics/17407
+* 编辑: 李森森
+* 订阅新闻: http://tinyletter.com/gocn
+* 招聘专区: https://gocn.vip/jobs
+* GoCN归档: https://gocn.vip/topics/17407
