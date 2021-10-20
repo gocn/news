@@ -27,3 +27,17 @@
 * 订阅新闻: http://tinyletter.com/gocn
 * 招聘专区: https://gocn.vip/jobs
 * 新闻归档: https://gocn.vip/topics/17406
+
+
+# GoCN 每日新闻（2021-10-20）
+
+1. Golang实现的中以隐私为重点的开源客户数据平台 https://github.com/rudderlabs/rudder-server
+2. Golang 中你不需要用于文件遍历的库 https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+3. 为什么你应该在 Go 中使用专用的构造函数 https://web3.coach/golang-why-you-should-use-constructors
+4. 高性能Redis-Server多线程框架，基于rawepoll模型 https://github.com/IceFireDB/redhub
+5. Go在flow中的开发 https://susamn.medium.com/be-in-the-flow-with-idiomatic-go-development-58058326bffe
+
+- 编辑: 李森森
+- 订阅新闻: http://tinyletter.com/gocn
+- 招聘专区: https://gocn.vip/jobs
+- GoCN归档: https://gocn.vip/topics/17407
