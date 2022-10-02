@@ -1,0 +1,12 @@
+## GoCN 每日新闻 (2022-10-02)
+
+1. 如何为Go微服务架构自动创建架构图 https://www.youtube.com/watch?v=6lOLx26S0MU 
+2. 编写自己的PostgreSQL driver https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d 
+3. Go mod 鲜为人知的功能 https://verdverm.com/go-mods 
+4. K8S 生态周报| Kubernetes新增auth whoami子命令,可获取用户属性 https://mp.weixin.qq.com/s/sXOIFjSMLzpZMhg_hWTagw 
+5. Go 应用程序简单的分布式跟踪 https://odigos.io/blog/2022/09/26/effortless-distributed-tracing-for-go-applications 
+
+- 编辑: CDS
+- 订阅新闻: http://tinyletter.com/gocn
+- 招聘专区: https://gocn.vip/jobs
+- GoCN归档: https://gocn.vip/topics/dwnymMUgQ7
