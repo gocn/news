@@ -10,3 +10,15 @@
 - 订阅新闻: http://tinyletter.com/gocn
 - 招聘专区: https://gocn.vip/jobs
 - GoCN归档: https://gocn.vip/topics/dwnymMUgQ7
+
+## GoCN每日新闻 (2022-10-05)
+
+1. Go安全更新 1.19.2/1.18.7 https://groups.google.com/g/golang-announce/c/xtuG5faxtaU
+2. TinyGo发布0.26.0 https://github.com/tinygo-org/tinygo/releases/tag/v0.26.0
+3. connect-go发布v1.0版本 https://github.com/bufbuild/connect-go
+4. memlimiter：防止Go程序OOM的内存限制库 https://github.com/newcloudtechnologies/memlimiter
+5. 揭开软件架构模式的神秘面纱 https://www.thoughtworks.com/insights/blog/architecture/demystify-software-architecture-patterns
+
+* 编辑: 李俱顺Kevin
+* 招聘专区: https://gocn.vip/jobs
+* 新闻归档: http://gocn.vip/topics/VwlPVEt1wl
