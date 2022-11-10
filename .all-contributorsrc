@@ -27,6 +27,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "songjiayang",
+      "name": "songjiayang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1459834?v=4",
+      "profile": "http://songjiayang.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ryannvm",
+      "name": "ryannvm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/525426?v=4",
+      "profile": "https://github.com/ryannvm",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
