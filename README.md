@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -17,8 +17,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://www.4async.com"><img src="https://avatars.githubusercontent.com/u/363344?v=4?s=100" width="100px;" alt="ipfans"/><br /><sub><b>ipfans</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=ipfans" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/askuy"><img src="https://avatars.githubusercontent.com/u/14119383?v=4?s=100" width="100px;" alt="askuy"/><br /><sub><b>askuy</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=askuy" title="Code">💻</a></td>
       <td align="center"><a href="http://beego.vip"><img src="https://avatars.githubusercontent.com/u/233907?v=4?s=100" width="100px;" alt="astaxie"/><br /><sub><b>astaxie</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=astaxie" title="Code">💻</a></td>
-      <td align="center"><a href="http://songjiayang.com"><img src="https://avatars.githubusercontent.com/u/1459834?v=4?s=100" width="100px;" alt=" songjiayang"/><br /><sub><b> songjiayang</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=songjiayang" title="Code">💻</a></td>
+      <td align="center"><a href="http://songjiayang.com"><img src="https://avatars.githubusercontent.com/u/1459834?v=4?s=100" width="100px;" alt="songjiayang"/><br /><sub><b>songjiayang</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=songjiayang" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ryannvm"><img src="https://avatars.githubusercontent.com/u/525426?v=4?s=100" width="100px;" alt="ryannvm"/><br /><sub><b>ryannvm</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=ryannvm" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/qtsunami"><img src="https://avatars.githubusercontent.com/u/2416646?v=4?s=100" width="100px;" alt="Simple.xull"/><br /><sub><b>Simple.xull</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=qtsunami" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
