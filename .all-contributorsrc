@@ -1,5 +1,5 @@
 {
-  "projectName": "gocn-news",
+  "projectName": "news",
   "projectOwner": "gocn",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -9,7 +9,17 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "ipfans",
+      "name": "ipfans",
+      "avatar_url": "https://avatars.githubusercontent.com/u/363344?v=4",
+      "profile": "https://www.4async.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "linkToUsage": true
 }
