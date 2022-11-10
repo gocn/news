@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -21,6 +21,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/ryannvm"><img src="https://avatars.githubusercontent.com/u/525426?v=4?s=100" width="100px;" alt="ryannvm"/><br /><sub><b>ryannvm</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=ryannvm" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/qtsunami"><img src="https://avatars.githubusercontent.com/u/2416646?v=4?s=100" width="100px;" alt="Simple.xull"/><br /><sub><b>Simple.xull</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=qtsunami" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/goxuetang"><img src="https://avatars.githubusercontent.com/u/5275506?v=4?s=100" width="100px;" alt="渔夫子"/><br /><sub><b>渔夫子</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=goxuetang" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/CongLinNiao"><img src="https://avatars.githubusercontent.com/u/117881671?v=4?s=100" width="100px;" alt="CongLinNiao"/><br /><sub><b>CongLinNiao</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=CongLinNiao" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
