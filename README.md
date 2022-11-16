@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -55,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/tanqiangyes"><img src="https://avatars.githubusercontent.com/u/25723492?v=4?s=100" width="100px;" alt="tanqiangyes"/><br /><sub><b>tanqiangyes</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=tanqiangyes" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/yangwenmai"><img src="https://avatars.githubusercontent.com/u/1710912?v=4?s=100" width="100px;" alt="maiyang"/><br /><sub><b>maiyang</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=yangwenmai" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/qinhao"><img src="https://avatars.githubusercontent.com/u/5054087?v=4?s=100" width="100px;" alt="qinhao"/><br /><sub><b>qinhao</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=qinhao" title="Code">💻</a></td>
+      <td align="center"><a href="http://sijing233.github.io"><img src="https://avatars.githubusercontent.com/u/48935581?v=4?s=100" width="100px;" alt="sijing233"/><br /><sub><b>sijing233</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=sijing233" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
