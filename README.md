@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -57,6 +57,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/qinhao"><img src="https://avatars.githubusercontent.com/u/5054087?v=4?s=100" width="100px;" alt="qinhao"/><br /><sub><b>qinhao</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=qinhao" title="Code">💻</a></td>
       <td align="center"><a href="http://sijing233.github.io"><img src="https://avatars.githubusercontent.com/u/48935581?v=4?s=100" width="100px;" alt="sijing233"/><br /><sub><b>sijing233</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=sijing233" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/ataraxia25"><img src="https://avatars.githubusercontent.com/u/56867700?v=4?s=100" width="100px;" alt="ataraxia25"/><br /><sub><b>ataraxia25</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=ataraxia25" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/kaireg"><img src="https://avatars.githubusercontent.com/u/24662095?v=4?s=100" width="100px;" alt="kaireg"/><br /><sub><b>kaireg</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=kaireg" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
