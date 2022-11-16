@@ -60,6 +60,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/kaireg"><img src="https://avatars.githubusercontent.com/u/24662095?v=4?s=100" width="100px;" alt="kaireg"/><br /><sub><b>kaireg</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=kaireg" title="Code">💻</a></td>
+      <td align="center"><a href="https://kennylong.io"><img src="https://avatars.githubusercontent.com/u/1432582?v=4?s=100" width="100px;" alt="kennylong"/><br /><sub><b>kennylong</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=longkai" title="Code">💻</a></td>
       <td align="center"><a href="http://soone.me"><img src="https://avatars.githubusercontent.com/u/52793?v=4?s=100" width="100px;" alt="soone"/><br /><sub><b>soone</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=soone" title="Code">💻</a></td>
     </tr>
   </tbody>
