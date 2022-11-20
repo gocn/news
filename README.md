@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="http://soone.me"><img src="https://avatars.githubusercontent.com/u/52793?v=4?s=100" width="100px;" alt="soone"/><br /><sub><b>soone</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=soone" title="Code">💻</a></td>
       <td align="center"><a href="https://www.liangyouze.com"><img src="https://avatars.githubusercontent.com/u/26573169?v=4?s=100" width="100px;" alt="youzeliang"/><br /><sub><b>youzeliang</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=youzeliang" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/talbole"><img src="https://avatars.githubusercontent.com/u/66149959?v=4?s=100" width="100px;" alt="talbole"/><br /><sub><b>talbole</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=talbole" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/zsr228"><img src="https://avatars.githubusercontent.com/u/22949549?v=4?s=100" width="100px;" alt="zsr2017228@gmail.com"/><br /><sub><b>zsr2017228@gmail.com</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=zsr228" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
