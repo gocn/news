@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -66,6 +66,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/talbole"><img src="https://avatars.githubusercontent.com/u/66149959?v=4?s=100" width="100px;" alt="talbole"/><br /><sub><b>talbole</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=talbole" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/zsr228"><img src="https://avatars.githubusercontent.com/u/22949549?v=4?s=100" width="100px;" alt="zsr2017228@gmail.com"/><br /><sub><b>zsr2017228@gmail.com</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=zsr228" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Lumu-zoie"><img src="https://avatars.githubusercontent.com/u/16852437?v=4?s=100" width="100px;" alt="Lumu"/><br /><sub><b>Lumu</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=Lumu-zoie" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/minicoder1024"><img src="https://avatars.githubusercontent.com/u/12459182?v=4?s=100" width="100px;" alt="Vince"/><br /><sub><b>Vince</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=minicoder1024" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
