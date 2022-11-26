@@ -387,6 +387,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "minicoder1024",
+      "name": "Vince",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12459182?v=4",
+      "profile": "https://github.com/minicoder1024",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
