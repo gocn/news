@@ -1,6 +1,6 @@
 # news
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-45-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 GoCN 每日新闻
 
@@ -70,6 +70,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="https://github.com/minicoder1024"><img src="https://avatars.githubusercontent.com/u/12459182?v=4?s=100" width="100px;" alt="Vince"/><br /><sub><b>Vince</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=minicoder1024" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/b8kings0ga"><img src="https://avatars.githubusercontent.com/u/58551958?v=4?s=100" width="100px;" alt="b8kings0ga"/><br /><sub><b>b8kings0ga</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=b8kings0ga" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/FlatterKang"><img src="https://avatars.githubusercontent.com/u/52123956?v=4?s=100" width="100px;" alt="SimpleKang"/><br /><sub><b>SimpleKang</b></sub></a><br /><a href="https://github.com/gocn/news/commits?author=FlatterKang" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
