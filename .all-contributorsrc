@@ -405,6 +405,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "FlatterKang",
+      "name": "SimpleKang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52123956?v=4",
+      "profile": "https://github.com/FlatterKang",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
