@@ -1,0 +1,11 @@
+## GoCN 每日新闻 (2023-08-28)
+
+1. Go 并发可视化解释 — Channel https://blog.stackademic.com/go-concurrency-visually-explained-channel-c6f88070aafa
+2. 了解 Go ldflags 的编译 https://levelup.gitconnected.com/understanding-gos-ldflags-for-compilation-c2d128a61c80
+3. 访问 Go 中的私有函数、方法、类型和变量 https://medium.com/@yardenlaif/accessing-private-functions-methods-types-and-variables-in-go-951acccc05a6
+4. Golang 中的互斥锁和锁内部结构 https://blog.stackademic.com/mutex-internals-in-golang-1624749f35a6
+5. Go测试之.golden 文件 https://juejin.cn/post/7271613128361295933
+
+- 编辑: 司镜233
+- 订阅新闻: http://tinyletter.com/gocn
+- 招聘专区: https://gocn.vip/jobs
