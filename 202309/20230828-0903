@@ -22,3 +22,17 @@
 - 订阅新闻: http://tinyletter.com/gocn
 - 招聘专区: https://gocn.vip/jobs
 - GoCN归档: https://gocn.vip/c/3lQ6GbD5ny/s/Gd7BTB/d/jowRdeniO6
+
+
+## GoCN 每日新闻 (2023-08-31)
+
+1. 编译Go应用的黑盒挑战：无源码只有.a文件，你能搞定吗？ https://mp.weixin.qq.com/s/snVLySXv4E5xMlbD153FcQ
+2. 完美可复制、经过验证的 Go 工具链 https://go.dev/blog/rebuild
+3. Go Closure, Beautiful and Dangerous  https://medium.com/itnext/go-closure-beautiful-and-dangerous-ea38274d3856
+4. golang逃逸技术分析 https://juejin.cn/post/7273026558402101248
+5. 什么是 unsafe.pointer和uintptr https://medium.com/gitconnected/what-is-unsafe-pointer-or-uintptr-536a1b1dc987
+
+- 编辑: qtsunima
+- 订阅新闻: https://gocn.vip/c/3lQ6GbD5ny/s/Gd7BTB
+- 招聘专区: https://gocn.vip/c/3lQ6GbD5ny/s/Gd7OHl
+- GoCN 归档: https://gocn.vip/c/3lQ6GbD5ny/s/Gd7BTB/d/4D5menpS3D
